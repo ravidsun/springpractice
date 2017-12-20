@@ -1,7 +1,0 @@
-com\apress\springrecipes\court\service\MemberService.class
-com\apress\springrecipes\court\domain\Members.class
-com\apress\springrecipes\court\domain\Member.class
-com\apress\springrecipes\court\service\InMemoryMemberService.class
-com\apress\springrecipes\court\web\config\CourtRestConfiguration.class
-com\apress\springrecipes\court\web\CourtRestApplicationInitializer.class
-com\apress\springrecipes\court\web\RestMemberController.class
